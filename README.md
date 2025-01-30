@@ -331,7 +331,7 @@ body {
   }
   
   .voice-button i {
-    font-size: 2.1em;  /* Increased font size */
+    font-size: 1.7em;  /* Increased font size */
   }
   
   .send-message {
@@ -344,7 +344,7 @@ body {
   }
   
   .send-message i {
-    font-size: 2.1em;  /* Increased font size */
+    font-size: 1.7em;  /* Increased font size */
   }
 }
 
